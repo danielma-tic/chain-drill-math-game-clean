@@ -1,0 +1,29 @@
+{
+  "name": "chain-drill-math-game",
+  "version": "1.0.0",
+  "description": "A mathematical chain drill game where each answer becomes the start of the next equation, building towards a target number.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.9"
+  },
+  "keywords": [
+    "math",
+    "education",
+    "game",
+    "chain",
+    "drill",
+    "practice"
+  ],
+  "author": "danielma-tic",
+  "license": "MIT"
+}
